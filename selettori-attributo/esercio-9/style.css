@@ -1,0 +1,3 @@
+a[href*="example"] {
+  color: #ff0000;
+}
